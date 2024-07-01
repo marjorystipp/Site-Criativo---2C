@@ -10,12 +10,12 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px;
-
 }
 
 .cabecalho-imagem{
     width: 20%;
 }
+
 .cabecalho-lista-item{
 display: inline-block;
 margin: 0 16px;
@@ -38,7 +38,6 @@ font-size: 24px;
 .escola-div-conteudo{
     width: 35%;
 }
-
 .escola-titulo{
     padding: 24px 0;
 }
