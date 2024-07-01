@@ -28,5 +28,6 @@ font-size: 24px;
 
 .escola{
     background-image: linear-gradient(#424e61,#4EFBE9);
-    color
+    color:white;
+    display: flex;
 }
